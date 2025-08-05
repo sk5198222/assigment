@@ -2,6 +2,10 @@
 
 This repository contains the Node.js backend for a LinkedIn clone application. It provides RESTful APIs for user authentication, post management, and profile features.
 
+## 🌐 Live Demo
+Frontend: [https://mini-linked-in-assignment.netlify.app/](https://mini-linked-in-assignment.netlify.app/)
+Backend: [https://linkedinbackend-a38l.onrender.com/api/posts](https://linkedinbackend-a38l.onrender.com/api/posts)
+
 ## 🔧 Tech Stack
 
 - **Runtime**: Node.js
@@ -10,6 +14,7 @@ This repository contains the Node.js backend for a LinkedIn clone application. I
 - **Authentication**: JSON Web Tokens (JWT)
 - **Environment Management**: dotenv
 - **Security**: CORS
+- **Frontend**: [Reactjs/vite](https://github.com/sk5198222/linkedInFE)
 
 ## Additional features:
 
