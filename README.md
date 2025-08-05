@@ -1,2 +1,0 @@
-# assigment
-Linkedin Like App
